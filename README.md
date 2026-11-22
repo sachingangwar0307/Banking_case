@@ -3,7 +3,6 @@ Banking Customer Analytics: Portfolio Insights & Dashboard
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20Seaborn-3776AB?logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-DAX-F2C811?logo=powerbi&logoColor=black)
-![Dashboard summary](docs/screenshots/summary.png)
 1. Business problem
 A retail and private bank wants to understand who its clients are, how large its loan and deposit book is, and where it can grow (upgrades and cross-sell). This project answers three questions:
 What does the client base look like by relationship type, loyalty tier, income band, nationality and occupation?
